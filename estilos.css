@@ -1,0 +1,65 @@
+header{
+    background-color: rgb(248, 115, 142);
+    text-align: center;
+    color: rgb(255, 178, 84);
+}
+
+table{
+    color: wheat;
+    text-align: center;
+    width:100%;
+}
+
+th{
+    border: 1px black solid;
+    border-radius: 0px;
+    text-align: center;
+}
+
+h3{
+    color: cornflowerblue;
+}
+
+body{
+    background-image: url(https://i.pinimg.com/736x/14/08/ed/1408ed2e72961df5335c2391c3eacd41.jpg);
+}
+
+.datos{
+    width: 50%;
+    background-image: url(https://i.pinimg.com/736x/14/08/ed/1408ed2e72961df5335c2391c3eacd41.jpg);
+    padding-left: 20px;
+    padding-top: 0px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    display: inline-block;
+}
+
+main{
+margin-left: 50px;
+}
+
+img{
+    width: 300px;
+}
+
+.etiqueta{
+    display: inline;
+}
+
+footer{
+    background-color: rgb(108, 108, 233);
+    color: white;
+    text-align: center;
+}
+
+form{
+    margin: auto;
+    text-align: center;
+    width: 500px;
+    padding: 50px;
+
+}
+
+h2{
+    text-align: center;
+}
